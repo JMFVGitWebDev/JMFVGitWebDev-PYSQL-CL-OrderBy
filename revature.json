@@ -1,0 +1,15 @@
+{
+  "type": "python",
+  "testFiles": [
+    {
+      "path": "tests/lab_test.py",
+      "testCases": [
+        {
+          "methodName": "test_problem1_alphabetical_order",
+          "label": "Verify ORDER BY last name, then first name",
+          "description": "Runs problem1(), which should return all characters ordered ascending by last name, with first name as a tie-breaker."
+        }
+      ]
+    }
+  ]
+}
